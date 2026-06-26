@@ -2,7 +2,18 @@
 
 Custom Garmin map for road cycling built with OpenStreetMap, mkgmap and a custom TYP style.
 
-RoadDay is designed to make roads easier to read while riding at speed. The project focuses on clean rendering, wide roads, minimal visual noise and good readability on Garmin Edge devices.
+RoadDay focuses on clean rendering, wide roads and high readability while riding.
+
+The project is currently developed and tested on Garmin Edge 1050. Compatibility with other Garmin devices has not yet been verified.
+
+---
+
+## Goals
+
+- Improve road readability
+- Keep the map clean and uncluttered
+- Preserve routing compatibility
+- Provide a pleasant riding experience on Garmin Edge 1050
 
 ---
 
@@ -12,9 +23,8 @@ RoadDay is designed to make roads easier to read while riding at speed. The proj
 - Custom Garmin TYP style
 - Custom mkgmap style
 - Green parks and forests
-- Dark gray paths
-- Road-focused design
-- Optimized for Garmin Edge 1050
+- Solid gray paths
+- Designed and tested on Garmin Edge 1050
 
 ---
 
@@ -47,19 +57,17 @@ gmapsupp.img
 
 ---
 
-## Current Status
+## Current Release
 
-Current development version:
-
-**v0.6**
+**v1.0.0**
 
 Main improvements:
 
-- Wider residential roads
-- Improved highway rendering
+- Wider road rendering
 - Solid gray paths
-- Better park rendering
-- Custom road style
+- Improved park and forest colors
+- Custom Garmin TYP style
+- Custom mkgmap style
 
 ---
 
@@ -69,5 +77,5 @@ Main improvements:
 - Cleaner 500 m overview
 - Better POI rendering
 - Improved cycleway styling
-- Public releases
+
 
