@@ -28,7 +28,7 @@ java -Xmx4G -jar mkgmap/mkgmap-r4924/mkgmap.jar \
   --style=RoadDay \
   --family-id=10010 \
   --product-id=1 \
- --family-name="RoadDay"\
+ --family-name="RoadDay" \
   --series-name="RoadDay" \
   --overview-mapname=ROADDAY \
   --route \
