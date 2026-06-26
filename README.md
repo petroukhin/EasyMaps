@@ -16,13 +16,17 @@ EasyMaps is designed for cyclists who want a clean, readable Garmin map without 
 
 ---
 
-## Installation
+## Usage
 
-If you only want to use EasyMaps on your Garmin device, see the installation guide:
+This project is a toolchain for building custom Garmin maps from OpenStreetMap data.
 
-`INSTALL.md` *(coming soon)*
+It does NOT provide ready-made maps.
 
-If you want to build your own Garmin maps from OpenStreetMap, continue reading this document.
+For full usage instructions, see:
+
+USAGE.md
+
+If you want to build your own Garmin maps, continue below.
 
 ---
 
