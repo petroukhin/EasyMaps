@@ -82,7 +82,7 @@ FontStyle=NormalFont
 CustomColor=Day
 DaycustomColor:#7B3000
 Xpm="32 32 2 1"
-"! c #FFCC99"
+"! c #ECECEC"
 "  c none"
 "                                "
 "                                "
@@ -309,7 +309,7 @@ FontStyle=NoLabel (invisible)
 CustomColor=Day
 DaycustomColor:#BD0000
 Xpm="0 0 2 0"
-"1 c #FFCAFF"
+"1 c #ECECEC"
 "2 c #FFFFD5"
 [end]
 
@@ -411,7 +411,7 @@ ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
 CustomColor=No
 Xpm="0 0 2 0"
-"1 c #E3E3E3"
+"1 c #D4D4D4"
 "2 c #FFFFD5"
 [end]
 
@@ -426,10 +426,10 @@ FontStyle=SmallFont
 CustomColor=Day
 DaycustomColor:#7B956A
 Xpm="32 32 4 1"
-"! c #7BCA6A"
+"! c #D8EBCF"
 "# c #7B956A"
-"3 c #BDCA8B"
-"4 c #BDCA8B"
+"3 c #C7DCBC"
+"4 c #C7DCBC"
 "!!!!!!!!!!!!###!!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!#!!##!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!#!!##!!!!!!!!!##!!!!!"
@@ -476,8 +476,8 @@ FontStyle=NoLabel (invisible)
 CustomColor=Day
 DaycustomColor:#7B956A
 Xpm="0 0 2 0"
-"1 c #7BCA6A"
-"2 c #BDCA8B"
+"1 c #D8EBCF"
+"2 c #C7DCBC"
 [end]
 
 
@@ -491,8 +491,8 @@ FontStyle=SmallFont
 CustomColor=Day
 DaycustomColor:#7B956A
 Xpm="0 0 2 0"
-"1 c #BDFFB4"
-"2 c #BDCA8B"
+"1 c #E6F3DE"
+"2 c #C7DCBC"
 [end]
 
 
@@ -506,7 +506,7 @@ FontStyle=NoLabel (invisible)
 CustomColor=Day
 DaycustomColor:#00FF00
 Xpm="32 32 2 1"
-"! c #7BFF00"
+"! c #D8EBCF"
 "  c none"
 "! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! "
 "                                "
@@ -554,7 +554,7 @@ FontStyle=NoLabel (invisible)
 CustomColor=Day
 DaycustomColor:#BDFF6A
 Xpm="32 32 2 1"
-"! c #BDFF00"
+"! c #E6F3DE"
 "  c none"
 "! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! "
 " ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !"
@@ -602,7 +602,7 @@ FontStyle=NoLabel (invisible)
 CustomColor=Day
 DaycustomColor:#006500
 Xpm="32 32 2 1"
-"! c #BDFF6A"
+"! c #D8EBCF"
 "  c none"
 "! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! "
 " ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !"
@@ -698,7 +698,7 @@ CustomColor=DayAndNight
 DaycustomColor:#003000
 NightcustomColor:#003000
 Xpm="32 32 2 1"
-"! c #009520"
+"! c #7B956A"
 "  c none"
 "    !       !       !       !   "
 "   !       !       !       !    "
@@ -773,7 +773,7 @@ FontStyle=SmallFont
 CustomColor=Day
 DaycustomColor:#7B956A
 Xpm="0 0 1 0"
-"1 c #FFCAFF"
+"1 c #D8EBCF"
 [end]
 
 
@@ -788,7 +788,7 @@ CustomColor=DayAndNight
 DaycustomColor:#399541
 NightcustomColor:#000000
 Xpm="32 32 2 1"
-"! c #39FF41"
+"! c #7B956A"
 "  c none"
 "!   !   !   !   !   !   !   !   "
 "                                "
@@ -836,7 +836,7 @@ FontStyle=SmallFont
 CustomColor=Day
 DaycustomColor:#7B956A
 Xpm="0 0 1 0"
-"1 c #FFCAFF"
+"1 c #D8EBCF"
 [end]
 
 
@@ -850,10 +850,10 @@ FontStyle=SmallFont
 CustomColor=Day
 DaycustomColor:#7B956A
 Xpm="32 32 4 1"
-"! c #7BCA6A"
+"! c #D8EBCF"
 "# c #7B956A"
-"3 c #BDCA8B"
-"4 c #BDCA8B"
+"3 c #C7DCBC"
+"4 c #C7DCBC"
 "!!!!!!!!!!!!###!!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!#!!##!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!#!!##!!!!!!!!!##!!!!!"
@@ -914,7 +914,7 @@ FontStyle=NormalFont
 CustomColor=Day
 DaycustomColor:#00006A
 Xpm="0 0 1 0"
-"1 c #7BCAD5"
+"1 c #BFE6F8"
 [end]
 
 
@@ -926,7 +926,7 @@ FontStyle=SmallFont
 CustomColor=Day
 DaycustomColor:#0095B4
 Xpm="32 32 2 1"
-"! c #7BCAD5"
+"! c #BFE6F8"
 "  c none"
 "                                "
 "                                "
@@ -974,7 +974,7 @@ FontStyle=SmallFont
 CustomColor=Day
 DaycustomColor:#0095B4
 Xpm="0 0 1 0"
-"1 c #7BCAD5"
+"1 c #BFE6F8"
 [end]
 
 
@@ -1035,7 +1035,7 @@ FontStyle=NoLabel (invisible)
 CustomColor=Day
 DaycustomColor:#0095B4
 Xpm="0 0 1 0"
-"1 c #7BCAD5"
+"1 c #BFE6F8"
 [end]
 
 
@@ -1049,7 +1049,7 @@ FontStyle=SmallFont
 CustomColor=Day
 DaycustomColor:#0095B4
 Xpm="0 0 1 0"
-"1 c #7BCAD5"
+"1 c #BFE6F8"
 [end]
 
 
@@ -1155,7 +1155,7 @@ FontStyle=SmallFont
 CustomColor=Day
 DaycustomColor:#0000FF
 Xpm="0 0 1 0"
-"1 c #7BCAD5"
+"1 c #BFE6F8"
 [end]
 
 
@@ -1262,10 +1262,10 @@ FontStyle=NoLabel (invisible)
 CustomColor=Day
 DaycustomColor:#7B956A
 Xpm="32 32 4 1"
-"! c #BDFF8B"
+"! c #DCEED5"
 "# c #7B956A"
-"3 c #BDCA8B"
-"4 c #BDCA8B"
+"3 c #C7DCBC"
+"4 c #C7DCBC"
 "!!!!!!!!!!!!###!!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!#!!##!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!#!!##!!!!!!!!!!!!!!!!"
@@ -1406,7 +1406,7 @@ FontStyle=SmallFont
 CustomColor=Day
 DaycustomColor:#00008B
 Xpm="32 32 2 1"
-"! c #BDFF00"
+"! c #E6F3DE"
 "  c none"
 "! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! "
 " ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !"
@@ -1575,11 +1575,11 @@ CustomColor=No
 [_line]
 Type=0x01
 UseOrientation=N
-LineWidth=5
+LineWidth=8
 BorderWidth=1
 Xpm="0 0 2 0"
-"1 c #BDCAD5"
-"2 c #7B306A"
+"1 c #F5C84C"
+"2 c #A86B00"
 String1=0x04,motorway, trunk (cycling allowed)
 String2=0x03,auto(snel)weg (fietsen toegestaan)
 String3=0x02,Autobahn (Radfahren erlaubt)
@@ -1611,11 +1611,11 @@ CustomColor=No
 [_line]
 Type=0x03
 UseOrientation=N
-LineWidth=5
+LineWidth=8
 BorderWidth=1
 Xpm="0 0 2 0"
-"1 c #B4B4B4"
-"2 c #525252"
+"1 c #F7D86A"
+"2 c #9A7A00"
 String1=0x04,principal highway
 String2=0x03,N-weg
 String3=0x02,Hauptverbindungsstra�e
@@ -1628,11 +1628,11 @@ CustomColor=No
 [_line]
 Type=0x04
 UseOrientation=N
-LineWidth=5
+LineWidth=8
 BorderWidth=1
 Xpm="0 0 2 0"
-"1 c #FFCA00"
-"2 c #7B6500"
+"1 c #F8E28A"
+"2 c #A98B2C"
 String1=0x04,secondary highway
 String2=0x03,Provinciale weg
 String3=0x02,Landesstra�e
@@ -1645,7 +1645,7 @@ CustomColor=No
 [_line]
 Type=0x05
 UseOrientation=N
-LineWidth=3
+LineWidth=8
 BorderWidth=1
 Xpm="0 0 2 0"
 "1 c #FFFF6A"
@@ -1662,8 +1662,8 @@ CustomColor=No
 [_line]
 Type=0x06
 UseOrientation=N
-LineWidth=3
-BorderWidth=1
+LineWidth=8
+BorderWidth=0
 Xpm="0 0 4 0"
 "1 c #FFFFFF"
 "2 c #393000"
@@ -1681,16 +1681,14 @@ CustomColor=No
 [_line]
 Type=0x07
 UseOrientation=N
-Xpm="32 3 2  1"
-"! c #838383"
-"# c #FFFFFF"
-"!!!!!#####!!!!!#####!!!!!#####!!"
-"################################"
-"!!!!!#####!!!!!#####!!!!!#####!!"
-;12345678901234567890123456789012
+LineWidth=3
+BorderWidth=0
+Xpm="0 0 2 0"
+"1 c #FFFFFF"
+"2 c #838383"
 String1=0x04,service road
 String2=0x03,toegangsweg
-String3=0x02,Zufahrtsstra�e
+String3=0x02,Zufahrtsstraße
 ExtendedLabels=Y
 FontStyle=SmallFont
 CustomColor=No
@@ -1739,14 +1737,11 @@ CustomColor=No
 
 
 [_line]
-Type=0x0a
+Type=0x0A
 UseOrientation=N
-Xpm="32 3 2  1"
-"! c #573132"
-"# c #E6E6E6"
-"################################"
-"!!!!!###!!!!!###!!!!!###!!!!!###"
-"################################"
+LineWidth=1
+Xpm="0 0 1 0"
+"1 c #666666"
 ;12345678901234567890123456789012
 String1=0x04,path
 String2=0x03,pad
@@ -1761,7 +1756,7 @@ CustomColor=No
 Type=0x0b
 UseOrientation=N
 Xpm="32 4 2  1"
-"! c #FF0000"
+"! c #666666"
 "# c #B4B4B4"
 "################################"
 "!!!!!###!!!!!###!!!!!###!!!!!###"
@@ -1799,7 +1794,7 @@ CustomColor=No
 Type=0x0d
 UseOrientation=N
 Xpm="32 3 2  1"
-"! c #FF0000"
+"! c #666666"
 "# c #D5D5D5"
 "################################"
 "!!!!!###!!!!!###!!!!!###!!!!!###"
@@ -1818,7 +1813,7 @@ CustomColor=No
 Type=0x0e
 UseOrientation=N
 Xpm="32 4 2  1"
-"! c #FF0000"
+"! c #666666"
 "# c #FFFFFF"
 "################################"
 "!!!!!###!!!!!###!!!!!###!!!!!###"
@@ -1837,13 +1832,9 @@ CustomColor=No
 [_line]
 Type=0x0f
 UseOrientation=N
-Xpm="32 3 2  1"
-"! c #573132"
-"# c #FFFFFF"
-"!!!!!###!!!!!###!!!!!###!!!!!###"
-"!!!!!###!!!!!###!!!!!###!!!!!###"
-"!!!!!###!!!!!###!!!!!###!!!!!###"
-;12345678901234567890123456789012
+LineWidth=1
+Xpm="0 0 1 0"
+"1 c #666666"
 String1=0x04,track road
 String2=0x03,halfverharde weg
 String3=0x02,Halbbefestigter Weg
@@ -1876,8 +1867,10 @@ CustomColor=No
 Type=0x11
 UseOrientation=N
 LineWidth=2
-Xpm="0 0 1 0"
-"1 c #FF0000"
+BorderWidth=1
+Xpm="0 0 2 0"
+"1 c #FF8FC7"
+"2 c #FFFFFF"
 String1=0x04,cycleway
 String2=0x03,Fietspad
 String3=0x02,Radweg
@@ -1946,11 +1939,9 @@ CustomColor=No
 [_line]
 Type=0x15
 UseOrientation=N
-Xpm="32 1 2  1"
-"! c #573132"
-"  c none"
-"!!!!!   !!!!!   !!!!!   !!!!!   "
-;12345678901234567890123456789012
+LineWidth=1
+Xpm="0 0 1 0"
+"1 c #666666"
 String1=0x04,track or path
 String2=0x03,onverharde weg of pad
 String3=0x02,Unbefestigter Weg, Pfad
@@ -1966,9 +1957,9 @@ UseOrientation=N
 LineWidth=2
 BorderWidth=1
 Xpm="0 0 4 0"
-"1 c #FF0000"
-"2 c #7B0000"
-"3 c #FF0000"
+"1 c #707070"
+"2 c #505050"
+"3 c #707070"
 "4 c #FFFFFF"
 String1=0x04,bike path
 String2=0x03,fietspad
@@ -1984,7 +1975,7 @@ Type=0x18
 UseOrientation=N
 LineWidth=1
 Xpm="0 0 1 0"
-"1 c #7BCAD5"
+"1 c #BFE6F8"
 String1=0x04,stream
 String2=0x03,beek,sloot
 String3=0x02,Bach
@@ -2139,7 +2130,7 @@ Type=0x1f
 UseOrientation=N
 LineWidth=3
 Xpm="0 0 1 0"
-"1 c #7BCAD5"
+"1 c #BFE6F8"
 String1=0x04,river
 String2=0x03,rivier
 String3=0x02,Flu�
@@ -2224,7 +2215,7 @@ Type=0x25
 UseOrientation=N
 LineWidth=2
 Xpm="0 0 1 0"
-"1 c #7BCAD5"
+"1 c #BFE6F8"
 String1=0x04,coast
 String2=0x03,kust
 String3=0x02,K�ste
@@ -2238,7 +2229,7 @@ CustomColor=No
 Type=0x26
 UseOrientation=N
 Xpm="32 9 2  1"
-"! c #FF0000"
+"! c #666666"
 "  c none"
 "!!  !!  !!  !!  !!  !!  !!  !!  "
 "!!  !!  !!  !!  !!  !!  !!  !!  "
@@ -2397,8 +2388,8 @@ CustomColor=No
 Type=0x10002
 UseOrientation=N
 Xpm="32 7 2  1"
-"! c #B4B4B4"
-"# c #525252"
+"! c #F7D86A"
+"# c #9A7A00"
 "################################"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
@@ -2464,7 +2455,7 @@ CustomColor=No
 Type=0x10005
 UseOrientation=N
 Xpm="32 10 2  1"
-"! c #FF0000"
+"! c #666666"
 "  c none"
 "                                "
 "                                "
@@ -2490,7 +2481,7 @@ CustomColor=No
 Type=0x10006
 UseOrientation=N
 Xpm="32 10 2  1"
-"! c #FF0000"
+"! c #666666"
 "  c none"
 "!!  !!  !!  !!  !!  !!  !!  !!  "
 "!!  !!  !!  !!  !!  !!  !!  !!  "
@@ -2542,7 +2533,7 @@ CustomColor=No
 Type=0x10008
 UseOrientation=N
 Xpm="32 14 2  1"
-"! c #FF0000"
+"! c #666666"
 "  c none"
 "                                "
 "                                "
@@ -2572,7 +2563,7 @@ CustomColor=No
 Type=0x10009
 UseOrientation=N
 Xpm="32 10 2  1"
-"! c #FF0000"
+"! c #666666"
 "  c none"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
@@ -2624,7 +2615,7 @@ CustomColor=No
 Type=0x10011
 UseOrientation=N
 Xpm="32 14 2  1"
-"! c #FF0000"
+"! c #666666"
 "  c none"
 " !    !                         "
 "!!!!!!!!                        "
@@ -2674,8 +2665,8 @@ UseOrientation=N
 LineWidth=5
 BorderWidth=1
 Xpm="0 0 2 0"
-"1 c #BDCAD5"
-"2 c #737373"
+"1 c #F5C84C"
+"2 c #A86B00"
 String1=0x04,motorway, trunk
 String2=0x03,auto(snel)weg
 String3=0x02,Autobahn
@@ -2834,7 +2825,7 @@ LineWidth=1
 BorderWidth=2
 Xpm="0 0 2 0"
 "1 c #5FBDCB"
-"2 c #7BCAD5"
+"2 c #BFE6F8"
 String1=0x04,territorial borders
 ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
@@ -2846,7 +2837,7 @@ CustomColor=No
 Type=0x10101
 UseOrientation=N
 Xpm="32 3 2  1"
-"! c #7B6500"
+"! c #8F8F8F"
 "# c #E6E6E6"
 "###!#######!#######!#######!####"
 "#!!######!!######!!######!!#####"
@@ -3055,7 +3046,7 @@ CustomColor=No
 Type=0x10116
 UseOrientation=N
 Xpm="32 5 2  1"
-"! c #FF0000"
+"! c #666666"
 "  c none"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
@@ -3275,7 +3266,7 @@ CustomColor=No
 Type=0x10a02
 UseOrientation=N
 Xpm="32 2 2  1"
-"! c #7BCAD5"
+"! c #BFE6F8"
 "  c none"
 "!!!!!   !!!!!   !!!!!   !!!!!   "
 "!!!!!   !!!!!   !!!!!   !!!!!   "
@@ -3933,7 +3924,7 @@ ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
 CustomColor=No
 DayXpm="20 20 3 1"   Colormode=16
-"!	c #FF0000"
+"!	c #666666"
 "#	c #FFFFFF"
 "  	c none"
 "                    "
@@ -4340,7 +4331,7 @@ ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
 CustomColor=No
 DayXpm="7 7 3 1"   Colormode=16
-"!	c #FF0000"
+"!	c #666666"
 "#	c #FFFFFF"
 "  	c none"
 " !!!!! "
@@ -4440,7 +4431,7 @@ FontStyle=NoLabel (invisible)
 CustomColor=No
 DayXpm="20 20 3 1"   Colormode=16
 "!	c #FFFFFF"
-"#	c #FF0000"
+"#	c #666666"
 "  	c none"
 "                    "
 "                    "
@@ -4556,7 +4547,7 @@ CustomColor=Day
 DaycustomColor:#0000FF
 DayXpm="16 16 4 1"   Colormode=16
 "!	c #000000"
-"#	c #FF0000"
+"#	c #666666"
 "%	c #FFFFFF"
 "  	c none"
 "       ##       "
@@ -4771,7 +4762,7 @@ FontStyle=SmallFont
 CustomColor=No
 DayXpm="11 16 6 1"   Colormode=16
 "!	c #000000"
-"#	c #FF0000"
+"#	c #666666"
 "%	c #FF956A"
 "?	c #FFFFFF"
 "$	c #FFCAD5"
@@ -4811,7 +4802,7 @@ DayXpm="16 16 7 1"   Colormode=16
 "%	c #AF6204"
 "?	c #FFFF00"
 "$	c #00FF00"
-"*	c #FF0000"
+"*	c #666666"
 "  	c none"
 "                "
 "                "
@@ -5197,8 +5188,8 @@ DayXpm="19 18 7 1"   Colormode=16
 "#	c #399500"
 "%	c #E6E6E6"
 "?	c #BDFF8B"
-"$	c #BDCA8B"
-"*	c #7BCA6A"
+"$	c #C7DCBC"
+"*	c #D8EBCF"
 "  	c none"
 "                   "
 "         !!        "
@@ -6519,7 +6510,7 @@ CustomColor=Day
 DaycustomColor:#0000FF
 DayXpm="20 20 4 1"   Colormode=16
 "!	c #000000"
-"#	c #FF0000"
+"#	c #666666"
 "%	c #FFFFFF"
 "  	c none"
 "                    "
@@ -6763,7 +6754,7 @@ String3=0x02,Feuerwache
 ExtendedLabels=N
 DayXpm="16 16 2 1"   Colormode=0
 "!	c #FFFF00"
-"#	c #FF0000"
+"#	c #666666"
 "################"
 "###!!##!!##!!!##"
 "##!!##!!!###!!!#"
@@ -7267,7 +7258,7 @@ FontStyle=NoLabel (invisible)
 CustomColor=No
 DayXpm="25 25 3 1"   Colormode=16
 "!	c #FFFFFF"
-"#	c #FF0000"
+"#	c #666666"
 "  	c none"
 "                         "
 "                         "

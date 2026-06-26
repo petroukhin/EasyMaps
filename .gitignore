@@ -1,0 +1,21 @@
+# Garmin output
+*.img
+*.tdb
+*.mdr
+*.mdx
+*.gmapi
+*.gmap
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+output/
+dist/
+
+# IDE
+.vscode/settings.json
